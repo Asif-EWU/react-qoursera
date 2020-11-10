@@ -1,8 +1,8 @@
 const fakedata = [{
     "course ": {
-      "name": "Transcof",
+      "name": "Artificial Intelligence",
       "price": 12.09,
-      "image": "https://robohash.org/similiqueveniamvoluptates.png?size=50x50&set=set1",
+      "image": "https://miro.medium.com/max/1200/1*PvjBTPY5KvtJoSoCUipzWw.jpeg",
       "date": "01/05/2021"
     },
     "university": "Astrahan State Medical Academy",
@@ -13,9 +13,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Zontrax",
+      "name": "Machine Learning",
       "price": 24.76,
-      "image": "https://robohash.org/aliquamoptioconsectetur.png?size=50x50&set=set1",
+      "image": "https://miro.medium.com/max/848/1*M9le42saJxWlOYyYvhKtPA.jpeg",
       "date": "14/04/2021"
     },
     "university": "Al-Batterjee Medical College",
@@ -26,9 +26,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Sonair",
+      "name": "Deep Learning",
       "price": 10.73,
-      "image": "https://robohash.org/quisexercitationemest.png?size=50x50&set=set1",
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F10%2FAdobeStock_179912599-1-1200x797.jpg",
       "date": "08/08/2021"
     },
     "university": "Tokyo University of Information Sciences",
@@ -39,9 +39,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Bytecard",
+      "name": "Data Mining",
       "price": 26.84,
-      "image": "https://robohash.org/estharumillum.png?size=50x50&set=set1",
+      "image": "https://miro.medium.com/max/3840/0*IrJj4kqeyIylbhI4.png",
       "date": "01/06/2021"
     },
     "university": "Université d'Abomey-Calavi (UAC)",
@@ -52,9 +52,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Redhold",
+      "name": "Data Structure",
       "price": 8.49,
-      "image": "https://robohash.org/nisioccaecatiatque.png?size=50x50&set=set1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO1Qx4nFhitY1UXz_OrtmSUY6lCcSMktUU3w&usqp=CAU",
       "date": "07/08/2021"
     },
     "university": "Sri Lanka Institute of Advanced Technical Education",
@@ -65,9 +65,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Fintone",
+      "name": "Algorithms",
       "price": 20.95,
-      "image": "https://robohash.org/eligendiexnon.png?size=50x50&set=set1",
+      "image": "https://miro.medium.com/max/1200/1*CWM5omSsQVUpMREJwHQUzQ.jpeg",
       "date": "05/03/2021"
     },
     "university": "Universidade Federal do Espírito Santo",
@@ -78,9 +78,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Bytecard",
+      "name": "Web Development",
       "price": 15.04,
-      "image": "https://robohash.org/doloreteneturcorporis.png?size=50x50&set=set1",
+      "image": "https://www.aigtechnologies.in/images/slides/web-development.jpg",
       "date": "27/09/2021"
     },
     "university": "Houdegbe North American University Benin",
@@ -91,9 +91,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Fixflex",
+      "name": "Introduction to C",
       "price": 14.68,
-      "image": "https://robohash.org/quiainquaerat.png?size=50x50&set=set1",
+      "image": "https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
       "date": "26/07/2021"
     },
     "university": "Institute of Teachers Education, Sultan Mizan",
@@ -104,9 +104,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Span",
+      "name": "Discrete Mathematics",
       "price": 12.49,
-      "image": "https://robohash.org/voluptasquised.png?size=50x50&set=set1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu2G1daS89HM3qtA9ao_Lqmv9kdIcfXRiwJg&usqp=CAU",
       "date": "14/05/2021"
     },
     "university": "Universitas Sumatera Utara",
@@ -117,9 +117,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Tres-Zap",
+      "name": "Computer Networking",
       "price": 22.29,
-      "image": "https://robohash.org/animiillummolestiae.png?size=50x50&set=set1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLzqNYjBjmMSU1nGIUQjX4eXJVE6s7y-nYdQ&usqp=CAU",
       "date": "22/03/2021"
     },
     "university": "Northern Jiaotong University",
@@ -130,9 +130,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Cookley",
+      "name": "Object Oriented Programming with C++",
       "price": 25.96,
-      "image": "https://robohash.org/repellatassumendanulla.png?size=50x50&set=set1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdGP8UXLdKqXtHPYitxxRKOA9zgJfNTkD7HQ&usqp=CAU",
       "date": "24/11/2020"
     },
     "university": "Iceland University of Education",
@@ -143,9 +143,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Span",
+      "name": "Compiler Design",
       "price": 5.92,
-      "image": "https://robohash.org/praesentiumrepellatbeatae.png?size=50x50&set=set1",
+      "image": "https://st4.depositphotos.com/4177785/30973/v/1600/depositphotos_309732476-stock-illustration-compiler-concept-icon-software-development.jpg",
       "date": "03/11/2021"
     },
     "university": "Universidad Autónoma de Occidente",
@@ -156,9 +156,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Tampflex",
+      "name": "Operating Systems",
       "price": 5.64,
-      "image": "https://robohash.org/temporevoluptatemnumquam.png?size=50x50&set=set1",
+      "image": "https://safebytes.com/wp-content/uploads/2016/10/OperatingSystem-min.jpg",
       "date": "27/09/2021"
     },
     "university": "Josai International University",
@@ -169,9 +169,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Zoolab",
+      "name": "Database Systems",
       "price": 5.89,
-      "image": "https://robohash.org/absedfacere.png?size=50x50&set=set1",
+      "image": "https://www.expertware.net/nowuiassets/img/blog/blogpage/data-base-refresh-process.jpg",
       "date": "03/04/2021"
     },
     "university": "Ecole Supérieure de Commerce de Reims",
@@ -182,9 +182,9 @@ const fakedata = [{
     }
   }, {
     "course ": {
-      "name": "Transcof",
+      "name": "Advanced Database Systems",
       "price": 19.02,
-      "image": "https://robohash.org/nesciuntetdoloribus.png?size=50x50&set=set1",
+      "image": "https://thumbs.dreamstime.com/b/database-18820966.jpg",
       "date": "11/09/2021"
     },
     "university": "University of Basrah",
