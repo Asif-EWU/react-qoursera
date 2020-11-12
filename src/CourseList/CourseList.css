@@ -1,0 +1,10 @@
+.courseList-container {
+    display: flex;
+}
+.courseList-container .course-name {
+    width: 80%;
+}
+.courseList-container button {
+    border: none;
+    background: none;
+}

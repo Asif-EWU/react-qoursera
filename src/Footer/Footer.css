@@ -1,0 +1,9 @@
+.footer {
+    background-color: #73cef1;
+    margin-top: 50px;
+    padding: 10px;
+}
+.footer .name {
+    color: #0d081a;
+    font-weight: 700;
+}

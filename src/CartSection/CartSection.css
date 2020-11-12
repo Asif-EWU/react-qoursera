@@ -1,0 +1,11 @@
+.cartSection-container {
+    padding: 20px;
+    align-self: flex-start;
+    position: sticky;
+    top: 10px;
+    width: 25%;
+}
+
+.cartSection-container ol {
+    padding: 0;
+}
